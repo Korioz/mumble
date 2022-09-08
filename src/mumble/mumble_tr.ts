@@ -6504,7 +6504,7 @@ Geçerli seçenekler şunlardır:
     </message>
     <message>
         <source>Local Volume Adjustment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerel Ses Ayarı:</translation>
     </message>
     <message>
         <source>This version of Mumble can&apos;t handle URLs for Mumble version %1</source>
@@ -9028,11 +9028,11 @@ Daha fazla bilgi için sunucu yöneticisi ile irtibata geçiniz.</translation>
     <name>VolumeSliderWidgetAction</name>
     <message>
         <source>Slider for volume adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses seviyesi ayarı için kaydırıcı</translation>
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses Ayarı</translation>
     </message>
 </context>
 <context>
