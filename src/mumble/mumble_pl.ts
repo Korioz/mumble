@@ -4533,7 +4533,7 @@ Ustawienie dotyczy tylko nowych wiadomości, te już pokazane zachowają poprzed
     </message>
     <message>
         <source>Show the local volume adjustment for each user (if any).</source>
-        <translation>Wyświetlaj lokalne dopasowanie głośności dla każdego użytkownika (jeśli istnieje).</translation>
+        <translation>Wyświetlaj lokalną regulację głośności dla każdego użytkownika (jeśli istnieje).</translation>
     </message>
     <message>
         <source>Show volume adjustments</source>
@@ -6506,7 +6506,7 @@ Prawidłowe opcje to:
     </message>
     <message>
         <source>Local Volume Adjustment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalna regulacja głośności:</translation>
     </message>
     <message>
         <source>This version of Mumble can&apos;t handle URLs for Mumble version %1</source>
@@ -7694,7 +7694,7 @@ Zobacz &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt
     </message>
     <message>
         <source>Local Volume Adjustment...</source>
-        <translation>Lokalne dopasowanie głośności...</translation>
+        <translation>Lokalna regulacja głośności...</translation>
     </message>
     <message>
         <source>&lt;p&gt;You&apos;re using a Mumble version that &lt;b&gt;explicitly disabled&lt;/b&gt; update-checks.&lt;/p&gt;&lt;p&gt;This means that the update notification you might receive by using this option will &lt;b&gt;most likely be meaningless&lt;/b&gt; for you.&lt;/p&gt;</source>
@@ -9032,11 +9032,11 @@ Skontaktuj się z administratorem serwera po dalsze informacje.</translation>
     <name>VolumeSliderWidgetAction</name>
     <message>
         <source>Slider for volume adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Suwak do regulacji głośności</translation>
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Regulacja głośności</translation>
     </message>
 </context>
 <context>
